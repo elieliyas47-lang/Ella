@@ -14,7 +14,7 @@
       margin-bottom: 50px;
     }
    
-    ul { background-color:white mirror}
+ ul { background-color:white mirror}
     i { display: block; margin-bottom: 10px; font-weight: bold; color: #ffd700; }
     li { margin-bottom: 8px; }
   </style>
